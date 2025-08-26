@@ -21,6 +21,7 @@ class MainActivity : ComponentActivity() {
             PrimerDiaTheme {
                 //JOSE ANGEL PALOMO PEREZ
                 //22130822
+                //desarrollo de aplicaciones en android
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
